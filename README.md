@@ -12,7 +12,7 @@ This repo highlights a collection of industry-recognized certifications I’ve e
 4. [Internet of Things (IoT) – Bangladesh Computer Council](#4-internet-of-things-iot--bangladesh-computer-council)  
 5. [Responsive Web Design – freeCodeCamp](#5-responsive-web-design--freecodecamp)  
 6. [Volunteer Recognition – RSWA](#6-volunteer-recognition--rswa-rajshahi-students-welfare-association)  
-7. [Introduction to C++ – Simplilearn](#7-introduction-to-c-plus-plus--simplilearn-skillup)  
+[7. Introduction to C++ – Simplilearn](#7-introduction-to-c--simplilearn-skillup) 
 8. [Connect With Me](#-connect-with-me)
 
 ---
